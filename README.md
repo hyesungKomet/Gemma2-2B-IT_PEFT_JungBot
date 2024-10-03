@@ -5,6 +5,10 @@ Google Machine Learning Bootcamp Gemma Sprint
 This project aims to provide psychological counseling as if receiving advice from renowned psychologist, Carl Jung by finetuning the Gemma model(gemma2-2b-it) on mental health 
 counseling conversations and the works of these psychology experts.
 
+## Instruction
+You can easily run the code with `streamlit run chat_gemma.py`. 
+You need to enter the Hugging Face token in terminal on the first run.
+
 ## Dataset
 # 1. Wellness Conversation Scripts
 We utilized user-chatbot conversation scripts from the counseling dataset available on AiHub.  

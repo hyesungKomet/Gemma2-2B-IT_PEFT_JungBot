@@ -61,4 +61,4 @@ We plan to fine-tune the model using the artificially created chatbot dataset fr
 - **Train Steps:** 704 steps
 
 ## Example Screenshot
-![example](https://github.com/user-attachments/assets/9e27a25f-7407-447f-bf4e-cee7ba8c60ef)
+<img src="https://github.com/user-attachments/assets/9e27a25f-7407-447f-bf4e-cee7ba8c60ef" alt="Main Chat Interface" width="500"/>
